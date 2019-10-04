@@ -1,0 +1,1 @@
+// 4. Escreva um programa que joga par ou ímpar com o usuário.

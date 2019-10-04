@@ -1,0 +1,1 @@
+// 2. Solicite que seja digitada uma palavra que contenha a letra F ou comece com a letra P

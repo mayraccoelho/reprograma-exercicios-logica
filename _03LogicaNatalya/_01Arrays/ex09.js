@@ -1,0 +1,1 @@
+// 9- ordene a array lista const lista = [56, 89, 34, 12, 23, 55, 9]
