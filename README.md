@@ -21,5 +21,5 @@
 - Objetos<br>
 - Função Construtora<br>
 
-Linguagem estudada: Javascript, Nodejs
+Linguagem estudada: Javascript, Nodejs <br>
 Dependência: readlineSync, noodemon, express
