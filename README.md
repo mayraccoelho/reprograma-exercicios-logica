@@ -20,3 +20,6 @@
 - Array Bidimensional<br>
 - Objetos<br>
 - Função Construtora<br>
+
+Linguagem estudada: Javascript, Nodejs
+Dependência: readlineSync, noodemon, express
