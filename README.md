@@ -22,4 +22,4 @@
 - Função Construtora<br>
 
 Linguagem estudada: Javascript, Nodejs <br>
-Dependência: readlineSync, noodemon, express
+Dependências: readlineSync, noodemon, express
